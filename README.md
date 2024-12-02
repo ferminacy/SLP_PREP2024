@@ -8,10 +8,5 @@ Project evaluates the level of preparedness of SLPs when working with interprete
 - `QUALTRICS_QUESTIONS.pdf`: The Qualtrics survey questions.
 - `SLP_PREP2024.pdf` : Slides
 - `SYSTEM_ARCHITECTURE - Google Docs.pdf ` : System Architecture
-Add files via upload
-now
-Speech-Language Pathology Preparedness Survey_November 21, 2024_14.58 2.csv
-Add project files
-last week
-slp1.ipynb
+- `Speech-Language Pathology Preparedness Survey_November 21, 2024_14.58 2.csv
 
