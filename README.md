@@ -3,10 +3,9 @@
 Project evaluates the level of preparedness of SLPs when working with interpreters. Includes data files, analysis scripts, and documentation.
 
 ## FILES
-- `slp1.ipynb`: Jupyter Notebook with Analysis Code
+- `slp1.ipynb`: Jupyter Notebook with Analysis Code ( FINAL SOLUTION / PROTOTYPE )
 - `Speech-Language Pathology Preparedness Survey`: Survey Data CSV File
-- `QUALTRICS_QUESTIONS.pdf`: The Qualtrics Survey Questions
-- `SLP_PREP2024.pdf`: Slides Presentation
-- `SYSTEM_ARCHITECTURE - Google Docs.pdf `: System Architecture
-
+- `QUALTRICS_QUESTIONS.pdf`: Qualtrics Survey Questions
+- `SLP_PREP2024.pdf`: PRESENTATION
+- `SYSTEM_ARCHITECTURE - Google Docs.pdf `: SYSTEM ARCHITECTURE
 
