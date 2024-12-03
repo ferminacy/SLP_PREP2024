@@ -8,3 +8,4 @@ Project evaluates the level of preparedness of SLPs when working with interprete
 - `QUALTRICS_QUESTIONS.pdf`: Qualtrics Survey Questions
 - `SLP_PREP2024.pdf`: PRESENTATION 🟢
 - `SYSTEM_ARCHITECTURE - Google Docs.pdf `: SYSTEM ARCHITECTURE 🟢
+- `TEST_PLAN.docx - Google Docs.pdf`: TEST PLAN 🟢
