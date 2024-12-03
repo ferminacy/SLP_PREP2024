@@ -9,3 +9,4 @@ Project evaluates the level of preparedness of SLPs when working with interprete
 - `SLP_PREP2024.pdf`: PRESENTATION 🟢
 - `SYSTEM_ARCHITECTURE - Google Docs.pdf `: SYSTEM ARCHITECTURE 🟢
 - `TEST_PLAN.docx - Google Docs.pdf`: TEST PLAN 🟢
+- `Cross Functional (Swimlane) Chart by Frank Krieger (1).pdf` : PROCESS DIAGRAM 🟢
